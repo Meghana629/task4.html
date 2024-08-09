@@ -1,0 +1,34 @@
+<html>
+<head>
+</head>
+<body>
+<center>
+<b>Make a perfect cup of tea</b><small>with just a few steps!</small>
+<h1>Ingredients</h1>
+<b>1 cup water</b>
+<i><p>1 tea bag</p></i>
+<u><p>1 teaspoon sugar(optional)</p></u>
+<del><p>1/2 cup milk(optional)</p></del>
+<small><p>1 slice of lemon(optional)</p></small>
+<h1>Instructions</h1>
+<p><b>1.Boil water.</b></p>
+<p><small>2.place</small></p><p><i>tea bag</i></p><p><small>in a cup.</small></p>
+<p><small>3.Pour hot water over the tea.</small></p>
+<p><small>4.Steep for<sup>3-5</sup>minutes</small></p>
+<p><small>5.<u>Add sugaror honey if you like.</u></small></p>
+<p><small>6.<del>Add milk if you prefer.</del></small></p>
+<p><small>7.Add lemon if desired.</small></p>
+<p><small>8.Enjoy your tea!</small></p>
+<h1>Example Recipe</h1>
+<pre>Recipe:
+----------------------------
+<b>- 1 cup water</b>
+<i>- 1 tea bag</i>
+<ins>- 1 teaspoon sugar(optional).</ins>
+<del>- 1/2 cup milk(optional)</del>
+
+</pre>
+
+</center>
+</body>
+</html>
